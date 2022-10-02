@@ -1,6 +1,6 @@
-#Welcome
+<h1>Welcome</h1>
 
-##Steps:
+<h3>Steps:</h3>
 <p>Delete the package and package-lock.</p><br>
 
 <p>Type in the terminal to install the packages and dependencies:<br>
